@@ -1,0 +1,9 @@
+​Mantener un registro de cambios con herramientas como Git es fundamental en el software porque actúa
+como una máquina del tiempo para el proyecto. Permite registrar de forma exacta quién hizo cada
+modificación, cuándo y por qué, facilitando la detección y corrección de errores de manera rápida.
+Además, ofrece un entorno seguro para experimentar con nuevas funcionalidades sin el riesgo de
+arruinar la versión estable del código que ya está funcionando correctamente. Esto es clave en
+el trabajo en equipo, ya que evita que varios desarrolladores sobreescriban el código de los demás.
+A largo plazo, un historial detallado se convierte en la documentación viva de la evolución del
+sistema, facilitando el mantenimiento futuro y garantizando la continuidad y estabilidad de la
+plataforma tecnológica ante cualquier eventualidad o rotación de los miembros del equipo técnico.

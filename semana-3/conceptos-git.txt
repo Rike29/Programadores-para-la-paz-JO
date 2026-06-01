@@ -1,0 +1,10 @@
+
+Repositorio
+Commit
+Push
+
+​Repositorio: Es la carpeta principal de mi proyecto. Es el lugar donde se guarda todo el trabajo y el historial de lo que hace en el mismo.
+
+​Commit: Es como un botón de "Guardar" la verdad muy inteligente. Es una foto que le tomas a los archivos en un momento específico para registrar lo que fue del avance y poder regresar ahí si algo sale malo malo.
+
+​Push: Es esa acción de subir los cambios a internet. Pasa la información que guardaste en la computadora a la nube (como GitHub) para que esté segura o para compartirla con otros.
