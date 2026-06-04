@@ -1,0 +1,8 @@
+http://localhost:3000
+R: en este apartado me indica que el servidor está activo
+
+http://localhost:3000/saludo
+R:  en este apartado esta saludando a la comunidad
+
+http://localhost:3000/mensaje/juan
+R: en este apartado saluda al nombre que se le introduzca
