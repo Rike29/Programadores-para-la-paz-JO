@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve un arreglo con todos los reportes registrados previamente mediante la ruta POST. Cada reporte incluye un identificador, el tipo y la descripción. Si el servidor se reinicia, el arreglo vuelve a quedar vacío porque los datos se almacenan únicamente en memoria.
